@@ -1,3 +1,3 @@
 Bot Discord
 <br><br>
-With <a hfref="https://discord.js.org/#/">DISCORDJS</a>
+With <a href="https://discord.js.org/#/">DISCORD.JS</a>
