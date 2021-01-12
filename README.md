@@ -2,7 +2,7 @@ Bot Discord
 <br><br>
 With <a href="https://discord.js.org/#/">DISCORD.JS</a>
 
-Create .ENV fine <br>
+Create .ENV file <br>
 and Add BOTTOKEN=(your token here)<br>
 
 Then <b><span style="#bdf236">npm run Start</span></b><br>
